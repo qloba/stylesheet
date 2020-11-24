@@ -63,45 +63,54 @@
 .site-body__container {}
 
 /* セクション */
+#section-1 {}
 .section__container {}
 .section__wrapper {}
 .section--boxed {}
 
 /* 段組み */
+#table-1 {}
 .table__container {}
 .table__columns {}
 .table__column {}
 .table__column--boxed {}
 
 /* 見出し */
+#heading-1 {}
 .heading__container {}
 .heading__h {}
 .heading__icon {}
 .heading__img {}
 
 /* テキスト */
+#text-1 {}
 .text__container {}
 .text__text {}
 
 /* 画像 */
+#image-1 {}
 .image__container {}
 .image__wrapper {}
 .image__img {}
 
 /* ギャラリー */
+#slider-1 {}
 .slider__container {}
 
 /* 動画 */
+#video-1 {}
 .video__container {}
 .video__wrapper {}
 .video__iframe {}
 
 /* 地図 */
+#map-1 {}
 .map__container {}
 .map__wrapper {}
 .map__iframe {}
 
 /* アイコン */
+#icon-1 {}
 .icon__container {}
 .icon--rounded {}
 .icon__icon {}
@@ -109,6 +118,7 @@
 .icon__icon {}
 
 /* 記事一覧 */
+#wall-1 {}
 .wall__container {}
 .wall__card-items {}
 .wall__card-item {}
@@ -125,6 +135,7 @@
 .wall__all-items {}
 
 /* カレンダー */
+#calendar-1 {}
 .calendar__container {}
 .calendar__header {}
 .calendar__header-prev {}
@@ -153,12 +164,14 @@
 .calendar__all-items {}
 
 /* ボタン・リンク */
+#button-1 {}
 .button__container {}
 .button__wrapper {}
 .button__link {}
 .button__text {}
 
 /* 外部ブログ */
+#feed-1 {}
 .feed__container {}
 .feed__columns {}
 .feed__column {}
@@ -167,6 +180,7 @@
 .feed__date {}
 
 /* 区切り線 */
+#hr-1 {}
 .hr__container {}
 .hr__hr {}
 
