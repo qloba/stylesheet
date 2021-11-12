@@ -35,6 +35,10 @@
 .site-menu__container {}
 .site-menu__items {}
 .site-menu__item {}
+.site-menu__nav {}
+.site-menu__nav-item {}
+.site-menu__nav-item-icon {}
+.site-menu__nav-item-icon--active {}
 .mobile-site-menu__container {}
 .mobile-site-menu__toggler {}
 .mobile-site-menu__items {}
