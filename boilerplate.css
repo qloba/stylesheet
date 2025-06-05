@@ -4,6 +4,7 @@
 .header__logo-img {}
 .header__menu-items {}
 .header__menu-item {}
+.header__cta {}
 
 /* サイトヘッダー */
 .site-header__container {}
@@ -30,6 +31,7 @@
 .hero__aligned-wrapper {}
 .hero__sub-image-wrapper {}
 .hero__sub-image {}
+.hero__cta {}
 
 /* サイトメニュー */
 .site-menu__container {}
@@ -47,6 +49,8 @@
 /* モバイル固定メニュー */
 .mobile-fixed-menu__container {}
 .mobile-fixed-menu__icon {}
+.mobile-cta__container {}
+.mobile-cta__button {}
 
 /* サイドバー */
 .sidebar__container {}
