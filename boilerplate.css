@@ -316,6 +316,9 @@
 .modal__body {}
 .modal__footer {}
 .activity-viewer__eyecatch {}
+.activity-viewer__share-icon {}
+.activity-viewer__share-icon--twitter {}
+.activity-viewer__share-icon--facebook {}
 
 /********* テーマ *********/
 
