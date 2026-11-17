@@ -23,6 +23,9 @@
 .site-header__actions {}
 .site-header__private {}
 .site-header__submenu-item {}
+.site-header__submenu-item--twitter {}
+.site-header__submenu-item--facebook {}
+.site-header__submenu-item--share {} /* リンクのコピー */
 .site-header__submenu-item-icon {}
 .site-header__notification {}
 .site-header__user {}
@@ -271,6 +274,8 @@
 .activity__date {}
 .activity__share {}
 .activity__share-icon {}
+.activity__share-icon--twitter {}
+.activity__share-icon--facebook {}
 .activity__eyecatch {}
 .activity__body {}
 .activity__body-html {}
